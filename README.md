@@ -45,25 +45,25 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<!-- <details> -->
+  <!-- <summary>:zap: Recent GitHub Activity</summary> -->
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. ❗️ Closed issue [#44](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/44) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+<!-- 1. 🗣 Commented on [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection) -->
+<!-- 2. ❗️ Closed issue [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection) -->
+<!-- 3. ❗️ Closed issue [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection) -->
+<!-- 4. 🗣 Commented on [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection) -->
+<!-- 5. ❗️ Closed issue [#44](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/44) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection) -->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<!-- <details> -->
+  <!-- <summary>:zap: GitHub Stats</summary> -->
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
 
-</details>
+<!-- </details> -->
 
 [website]: https://devazad.herokuapp.com/
 <!-- [course]: http://vsCodeHero.com -->
