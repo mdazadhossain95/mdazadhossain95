@@ -38,19 +38,12 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Jquery-282C34?logo=jquery&logoColor=11548A" alt="Jquery logo" title="Jquery" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=61DAFB" alt="Vue.js logo" title="Vue.js" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=5F649F" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=C43129" alt="Laravel logo" title="Laravel" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Laravel-livewire-282C34?logo=laravel-livewire&logoColor=764ABC" alt="Laravel-livewire logo" title="Laravel-livewire" height="25" />][tech_tools_anchor]
-&nbsp;
+
 [<img src="https://img.shields.io/badge/VS Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -62,32 +55,14 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=046FC9" alt="Windows logo" title="Windows" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Adobe Photoshop-282C34?logo=adobe-photoshop&logoColor=37AAFF" alt="Adobe Photoshop logo" title="Adobe Photoshop" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/linux-OS-brightgreen" alt="Windows logo" title="Windows" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Adobe Illustrator-282C34?logo=adobe-illustrator&logoColor=#FC9803" alt="Adobe Illustrator logo" title="Adobe Illustrator" height="25" />][tech_tools_anchor]
-&nbsp;
+
 <br/>
 <br/>
 <a name="learning-next"></a>
 
 
-<br />
-<br />
-
----
-
-<!-- <details> -->
-  <!-- <summary>:zap: Recent GitHub Activity</summary> -->
-  
-<!--START_SECTION:activity-->
-<!-- 1.  Commented on [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection) -->
-<!-- 2.  Closed issue [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection) -->
-<!-- 3.  Closed issue [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection) -->
-<!-- 4.  Commented on [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection) -->
-<!-- 5.  Closed issue [#44](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/44) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection) -->
-<!--END_SECTION:activity-->
-
-<!-- </details> -->
 
 
 [tech_tools_anchor]: #mdazadhossain95--
