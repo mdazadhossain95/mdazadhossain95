@@ -42,7 +42,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=5F649F" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
 &nbsp;
-
 [<img src="https://img.shields.io/badge/VS Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][tech_tools_anchor]
