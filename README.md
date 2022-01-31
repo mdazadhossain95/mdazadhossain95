@@ -50,21 +50,13 @@
 <img src="https://img.shields.io/badge/VS Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/MYSQL-282C34?logo=mysql&logoColor=FFBA66" alt="MYSQL logo" title="MYSQL" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=1887CD" alt="SQLite logo" title="SQLite" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Twilio-282C34?logo=twilio&logoColor=E52C42" alt="Twilio logo" title="Twilio" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=046FC9" alt="Windows logo" title="Windows" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Adobe Photoshop-282C34?logo=adobe-photoshop&logoColor=37AAFF" alt="Adobe Photoshop logo" title="Adobe Photoshop" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Adobe Illustrator-282C34?logo=adobe-illustrator&logoColor=#FC9803" alt="Adobe Illustrator logo" title="Adobe Illustrator" height="25" />
-&nbsp;
 <br/>
 <br/>
 <a name="learning-next"></a>
