@@ -50,8 +50,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=1887CD" alt="SQLite logo" title="SQLite" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Twilio-282C34?logo=twilio&logoColor=E52C42" alt="Twilio logo" title="Twilio" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Windows-282C34?logo=windows&logoColor=046FC9" alt="Windows logo" title="Windows" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/linux-OS-brightgreen" alt="Windows logo" title="Windows" height="25" />][tech_tools_anchor]
@@ -60,6 +58,20 @@
 <br/>
 <br/>
 <a name="learning-next"></a>
+
+
+## What I am currently learning / improving on
+
+<hr/>
+<br>
+
+
+[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="flutter logo" title="flutter" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Android-282C34?logo=Android&logoColor=3BD982" alt="Android logo" title="Android" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
+&nbsp;
 
 
 
