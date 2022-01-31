@@ -56,7 +56,6 @@
 &nbsp;
 
 <br/>
-<br/>
 <a name="learning-next"></a>
 
 
