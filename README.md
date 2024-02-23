@@ -8,7 +8,7 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning Mobile Application Development
 - 👯 I’m looking to collaborate with other Mobile Application Developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ### Connect with me:
