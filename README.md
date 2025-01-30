@@ -10,11 +10,11 @@ I'm a passionate mobile app developer with over 5 years of experience in buildin
 - 🛠 **Tools**: Flutter, Dart, Kotlin, Firebase, and more.
 
 ### Connect with me:
-<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [LinkedIn](https://www.linkedin.com/in/azadhossain-tutul/)  
-<img alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> [GitHub](https://github.com/azadtutuo)  
-<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> [Twitter](https://twitter.com/mdazadhossain95)  
-<img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> [Facebook](https://www.facebook.com/Azadhossain95)  
-<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [Instagram](https://www.instagram.com/azadofficial01/)
+[<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/azadhossain-tutul/)  
+[<img alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> GitHub](https://github.com/azadtutuo)  
+[<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> Twitter](https://twitter.com/mdazadhossain95)  
+[<img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> Facebook](https://www.facebook.com/Azadhossain95)  
+[<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> Instagram](https://www.instagram.com/azadofficial01/)
 
 <br />
 
