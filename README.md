@@ -5,22 +5,24 @@ I'm a passionate **Mobile Application Developer**, **Student**, and **Tech Enthu
 #### Here's a little more about what I've done and what I'm working on:
 
 - 💼 **Previous Experience**:  
-  - I have worked as a **Foreign Trade Manager** at **Guangdong Maifan Technology Co., Ltd.**, where I helped manage international business operations from **October 2023 to July 2024**.
-  - I've also worked with **AppDevs**, a company listed on Codecanyon, where I managed a team and supported over 200 clients in mobile app customization.
+  - I’ve worked with **AppDevs**, where I managed a team and supported over 200 clients in mobile app customization and development.  
+  - I’ve also worked as a **Freelancer**, collaborating with clients on various mobile application projects, ensuring high-quality solutions tailored to their needs.
 
 - 💻 **Tech Skills & Expertise**:  
-  I am proficient in **Flutter, Dart, Java, Swift, Kotlin**, and web technologies like **HTML5, JavaScript, CSS3**, and back-end frameworks like **Node.js, Laravel**. I've successfully integrated APIs like **Firebase**, **Twilio**, **Agora**, and **Google APIs** into applications for enhanced functionality. My development work spans **finance, healthcare, education, entertainment**, and custom apps.
+  - Proficient in **Flutter**, **Dart**, **Java**, **Swift**, **Kotlin**, and web technologies like **HTML5**, **JavaScript**, **CSS3**, as well as back-end frameworks like **Node.js**, **Laravel**.
+  - Experienced in **Firebase**, **Twilio**, **Agora**, **Google APIs**, and integrating third-party services into applications for enhanced functionality.
+  - Specialized in mobile apps across **finance**, **healthcare**, **education**, and **entertainment**.
 
 - 🌱 **Current Learning**:  
-  - I’m diving deeper into **Mobile Application Development** to refine my skills in **Flutter**, focusing on **cross-platform development** and **optimizing performance**.  
-  - I’m also getting into **Cloud Computing** and **Machine Learning** to further expand my capabilities.
+  - I’m diving deeper into **Mobile Application Development**, focusing on **cross-platform development** with **Flutter** and improving **performance optimization**.  
+  - Expanding my knowledge in **Cloud Computing** and **Machine Learning** to stay ahead in the evolving tech landscape.
 
 - 👯 **Collaborations**:  
-  I’m always looking to collaborate with **like-minded developers** who are passionate about creating top-notch mobile applications.
+  - I’m always looking to collaborate with **like-minded developers** who are passionate about creating top-notch mobile applications.
 
 - 🥅 **2025 Goals**:  
-  - **Contribute to Open Source Projects**: I’m committed to making valuable contributions to open-source mobile development tools and frameworks.
-  - **Mobile App Projects**: Continue to build and optimize mobile apps with a focus on **user experience** and **performance**.
+  - **Contribute to Open Source Projects**: I aim to contribute to **open-source mobile development tools** and frameworks.  
+  - **Mobile App Projects**: Continue building and optimizing apps with a focus on **user experience** and **performance**.
 
 
 ### Connect with me:
