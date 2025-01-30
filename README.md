@@ -1,15 +1,27 @@
-### Hi there, I'm Azad - [Website][website] 👋 
+### Hi there, I'm Azad 👋 
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://devazad.herokuapp.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+I'm a passionate **Mobile Application Developer**, **Student**, and **Tech Enthusiast** with over 5 years of experience in **Flutter**, **Java**, **Swift**, and **Kotlin**. I specialize in creating intuitive, high-performance applications that improve users' lives. Currently, I am pursuing a **Master’s degree in Computer Science** with a focus on **Computer Technology** while working on building innovative mobile applications.
 
-## I'm a Student, Developer, and Teacher!!
+#### Here's a little more about what I've done and what I'm working on:
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning Mobile Application Development
-- 👯 I’m looking to collaborate with other Mobile Application Developers
-- 🥅 2024 Goals: Contribute more to Open Source projects
-<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
+- 💼 **Previous Experience**:  
+  - I have worked as a **Foreign Trade Manager** at **Guangdong Maifan Technology Co., Ltd.**, where I helped manage international business operations from **October 2023 to July 2024**.
+  - I've also worked with **AppDevs**, a company listed on Codecanyon, where I managed a team and supported over 200 clients in mobile app customization.
+
+- 💻 **Tech Skills & Expertise**:  
+  I am proficient in **Flutter, Dart, Java, Swift, Kotlin**, and web technologies like **HTML5, JavaScript, CSS3**, and back-end frameworks like **Node.js, Laravel**. I've successfully integrated APIs like **Firebase**, **Twilio**, **Agora**, and **Google APIs** into applications for enhanced functionality. My development work spans **finance, healthcare, education, entertainment**, and custom apps.
+
+- 🌱 **Current Learning**:  
+  - I’m diving deeper into **Mobile Application Development** to refine my skills in **Flutter**, focusing on **cross-platform development** and **optimizing performance**.  
+  - I’m also getting into **Cloud Computing** and **Machine Learning** to further expand my capabilities.
+
+- 👯 **Collaborations**:  
+  I’m always looking to collaborate with **like-minded developers** who are passionate about creating top-notch mobile applications.
+
+- 🥅 **2025 Goals**:  
+  - **Contribute to Open Source Projects**: I’m committed to making valuable contributions to open-source mobile development tools and frameworks.
+  - **Mobile App Projects**: Continue to build and optimize mobile apps with a focus on **user experience** and **performance**.
+
 
 ### Connect with me:
 
