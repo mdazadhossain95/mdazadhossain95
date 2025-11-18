@@ -119,22 +119,9 @@ I love building **API-heavy, real-time, and AI-powered apps** that are cleanly a
 
 ### 🌐 Connect with Me
 
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)][website]
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)][twitter]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
-<br /><br />
-
----
-
-[tech_tools_anchor]: #hi-there-im-azad-
-[learning_now_anchor]: #what-i-do
-[learning_next_anchor]: #currently-exploring
-
-[website]: https://devazad.herokuapp.com/
-[twitter]: https://twitter.com/mdazadhossain95
-[instagram]: https://www.instagram.com/azadofficial01/
-[facebook]: https://www.facebook.com/Azadhossain95
-[linkedin]: https://www.linkedin.com/in/azadhossain-tutul/
