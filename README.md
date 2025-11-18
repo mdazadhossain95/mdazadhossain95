@@ -125,3 +125,10 @@ I love building **API-heavy, real-time, and AI-powered apps** that are cleanly a
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
+[website]: https://devazad.herokuapp.com/
+[twitter]: https://twitter.com/mdazadhossain95
+[instagram]: https://www.instagram.com/azadofficial01/
+[facebook]: https://www.facebook.com/Azadhossain95
+[linkedin]: https://www.linkedin.com/in/azadhossain-tutul/
+
+
