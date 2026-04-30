@@ -87,9 +87,20 @@ Advanced state management, code splitting, performance profiling, legacy app mod
 
 <div align="center">
 
-[![Azad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdazadhossain95&show_icons=true&hide_border=true&title_color=0A66C2&bg_color=00000000&text_color=333&icon_color=0A66C2)](https://github.com/mdazadhossain95)
+<img src="https://github-readme-stats.vercel.app/api?username=mdazadhossain95&show_icons=true&theme=default&hide_border=false&title_color=0A66C2&icon_color=0A66C2&count_private=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdazadhossain95&layout=compact&theme=default&hide_border=false&title_color=0A66C2&langs_count=6" height="170" alt="Top Languages" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdazadhossain95&hide_border=true&background=00000000&stroke=0A66C2&ring=0A66C2&fire=0A66C2&currStreakNum=333)](https://github.com/mdazadhossain95)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mdazadhossain95&theme=default&hide_border=false&stroke=0A66C2&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdazadhossain95&theme=github-compact&hide_border=false&color=0A66C2&line=0A66C2&point=0A66C2" alt="Contribution Graph" />
 
 </div>
 
