@@ -1,164 +1,196 @@
 <div align="center">
+  <img src="https://github.com/mdazadhossain95.png" width="150" alt="Md Azad Hossain Tutul" />
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Flutter+Mobile+Engineer;5%2B+Years+of+Experience;200%2B+Apps+Delivered;Fintech+%26+AI+Specialist)
+  [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Flutter+Mobile+Engineer;5%2B+Years+Experience;200%2B+Apps+Delivered;Fintech+%26+AI+Specialist)](https://git.io/typing-svg)
 
-### **Md Azad Hossain Tutul**
+  # Md Azad Hossain Tutul
 
-*Building production-grade Flutter applications that drive business impact through clean architecture, performance optimization, and reliable delivery.*
+  <i>Building production-grade Flutter applications that drive business impact — clean architecture, performance-first, reliable delivery.</i>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mdazadhossain95&style=flat-square&color=blue)](https://github.com/mdazadhossain95)
-[![Upwork](https://img.shields.io/badge/Upwork-100%25%20JSS-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01082f851b8bed7bd1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azadhossain-tutul/)
-[![Website](https://img.shields.io/badge/Portfolio-azadhossain.dev-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://azadhossain.dev/)
+  <br/>
 
+  [![Profile Views](https://komarev.com/ghpvc/?username=mdazadhossain95&style=flat-square&color=0A66C2&label=Profile+Views)](https://github.com/mdazadhossain95)
+  [![Upwork 100% JSS](https://img.shields.io/badge/Upwork-100%25_JSS-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01082f851b8bed7bd1)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azadhossain-tutul/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-azadhossain.dev-0A66C2?style=flat-square&logo=safari&logoColor=white)](https://azadhossain.dev/)
+  [![Medium](https://img.shields.io/badge/Medium-Follow-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mdazadhossain95)
 </div>
 
----
+<br/>
 
-## 📊 At a Glance
+<table align="center">
+  <tr>
+    <td align="center" width="160"><b>⚡ Experience</b><br/>5+ Years</td>
+    <td align="center" width="160"><b>📱 Apps</b><br/>200+ Delivered</td>
+    <td align="center" width="160"><b>🤝 Clients</b><br/>300+ Cases</td>
+    <td align="center" width="160"><b>⭐ Upwork</b><br/>100% JSS</td>
+    <td align="center" width="160"><b>💼 Current</b><br/>Codego (Milan)</td>
+  </tr>
+</table>
 
-| Metric | Value |
-|--------|-------|
-| **Experience** | 5+ years in Flutter mobile development |
-| **Apps Delivered** | 200+ production Android & iOS apps |
-| **Client Cases** | 300+ support & maintenance cases resolved |
-| **Upwork Rating** | 100% Job Success Score (Verified) |
-| **Current Role** | Mobile Application Developer @ **Codego** (Remote, Milan) |
-| **Previous** | Senior Software Engineer @ **AppDevs** (Dhaka) |
-
----
-
-## 🚀 What I Specialize In
-
-**🏦 Fintech & Payment Systems**
-Secure wallet architecture, KYC flows, transaction processing, subscription management, PCI-compliant payment gateway integrations (Stripe, PayPal, Razorpay, sslcommerz)
-
-**🔗 Real-Time Communication**
-Chat systems, live notifications, voice/video calls, live dashboards, push notifications using Agora, ZEGOCLOUD, Firebase, Twilio
-
-**🤖 AI-Powered Features**
-ChatGPT/Gemini integrations, intelligent search, predictive recommendations, mobile AI assistants, RAG systems
-
-**📡 API-Driven Architecture**
-Complex REST integrations, secure authentication (JWT/OAuth/social logins), real-time data sync, offline-first design
-
-**⚡ Performance & Optimization**
-Advanced state management, code splitting, performance profiling, legacy app modernization, production release management
+<br/>
 
 ---
 
-## 🛠 Tech Arsenal
+## 🧠 What I Do
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏦 Fintech & Payments</h3>
+      <p>Secure wallet architecture, KYC/AML flows, PCI-compliant payment gateways (Stripe, PayPal, Razorpay, sslcommerz), subscription management, real-time transaction processing.</p>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI-Powered Features</h3>
+      <p>ChatGPT & Gemini integrations, intelligent search, predictive recommendations, mobile AI assistants, RAG pipelines, on-device ML.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📡 Realtime Systems</h3>
+      <p>Chat, live dashboards, push notifications, voice/video calls — Agora, ZEGOCLOUD, Twilio, Firebase, WebSockets with offline-first patterns.</p>
+    </td>
+    <td width="50%">
+      <h3>⚡ Performance</h3>
+      <p>Advanced state management (GetX, BLoC, Riverpod), code splitting, profiling, legacy app modernization, App Store / Play Store release management.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 ### Mobile & Frontend
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React%20Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-2C2C2C?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2C2C2C?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
 
-**State Management:** GetX, BLoC, Provider, Riverpod (Flutter); Redux, Zustand, Context API (React)  
-**UI/UX:** Material 3, Cupertino, Figma, responsive layouts, dark mode, custom animations
+**State:** GetX · BLoC · Provider · Riverpod · Redux · Zustand · Context API  
+**UI:** Material 3 · Cupertino · Figma · Responsive · Dark Mode · Custom Animations
 
-### Backend, Cloud & Databases
+### Backend & Data
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-**Caching & Storage:** SQFLite, Hive, SharedPreferences, GetStorage, Redis  
-**DevOps:** Fastlane, GitHub Actions, CI/CD pipelines
+**Storage:** SQFLite · Hive · SharedPreferences · GetStorage  
+**DevOps:** Fastlane · GitHub Actions · CI/CD
 
-### Realtime & Communication
+### Communication & Payments
 
-**Voice/Video:** Agora, ZEGOCLOUD, VideoSDK, Twilio, Vonage, Dyte  
-**Messaging:** Firebase Cloud Messaging, Firebase Realtime DB, WebSocket integration  
-**Payments:** Stripe, PayPal, Razorpay, sslcommerz  
-**APIs:** Google Maps, REST APIs, GraphQL
-
----
-
-## 📈 GitHub Activity & Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mdazadhossain95&show_icons=true&theme=default&hide_border=false&title_color=0A66C2&icon_color=0A66C2&count_private=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdazadhossain95&layout=compact&theme=default&hide_border=false&title_color=0A66C2&langs_count=6" height="170" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mdazadhossain95&theme=default&hide_border=false&stroke=0A66C2&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdazadhossain95&theme=github-compact&hide_border=false&color=0A66C2&line=0A66C2&point=0A66C2" alt="Contribution Graph" />
-
-</div>
+**Voice/Video:** Agora · ZEGOCLOUD · VideoSDK · Twilio · Vonage · Dyte  
+**Messaging:** FCM · Firebase Realtime DB · WebSockets  
+**Payments:** Stripe · PayPal · Razorpay · sslcommerz  
+**APIs:** Google Maps · REST · GraphQL
 
 ---
 
-## 💼 Featured Projects & Open Source
+## 📊 GitHub Analytics
 
-Check out my pinned repos for current work and open-source contributions. Always open to:
-- Building scalable Flutter packages
-- Fintech/AI/dev-tooling projects
+<div align="center">
+
+  <a href="https://github.com/mdazadhossain95">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdazadhossain95&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdazadhossain95&layout=compact&theme=default&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff&langs_count=8&hide=html,css" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <a href="https://github.com/mdazadhossain95">
+    <img src="https://streak-stats.demolab.com?user=mdazadhossain95&theme=default&hide_border=true&stroke=0A66C2&ring=0A66C2&fire=E25822&currStreakLabel=0A66C2&sideLabels=0A66C2&dates=666666" alt="GitHub Streak" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <a href="https://github.com/mdazadhossain95">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdazadhossain95&theme=github-light&hide_border=true&color=0A66C2&line=0A66C2&point=0A66C2&area=true&area_color=0A66C21A" alt="Contribution Graph" />
+  </a>
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+> Check out my **[pinned repositories](https://github.com/mdazadhossain95?tab=repositories)** for current work and open-source contributions.
+
+**I'm always open to:**
+- Building scalable Flutter packages & developer tooling
+- Fintech, AI, and realtime communication projects
 - Mentoring mobile developers
 - Collaborating on meaningful products
 
 ---
 
-## 🎯 Currently Exploring
+## ✨ What I'm Exploring Now
 
-✨ **High-Performance Architecture** — Advanced state management for large-scale Flutter apps
-✨ **Mobile AI** — ChatGPT/Gemini integration patterns & best practices
-✨ **Fintech Security** — Compliance-ready, scalable transaction flows
-✨ **Developer Tooling** — Building tools to improve team productivity
+- **High-Performance Architecture** — Advanced state management patterns for large-scale Flutter apps
+- **Mobile AI** — ChatGPT & Gemini integration best practices, RAG on mobile
+- **Fintech Security** — Compliance-ready, scalable transaction flows
+- **Developer Tooling** — CLI tools and automation to supercharge team productivity
 
 ---
 
-## 📝 Writing & Content
-
-I share insights on Medium about mobile development, architecture, and best practices:
+## 📝 Latest Writing
 
 - [Firebase vs Supabase for Flutter Apps](https://medium.com/@mdazadhossain95) — Comparing BaaS options
-- [6 Flutter Performance Hacks Every Developer Should Know](https://medium.com/@mdazadhossain95) — Production tips (7 claps)
+- [6 Flutter Performance Hacks Every Developer Should Know](https://medium.com/@mdazadhossain95) — Production-tested tips
 - [Building Scalable Apps with Flutter: Idea to Deployment](https://medium.com/@mdazadhossain95) — End-to-end guide
 - [Flutter + WireGuard VPN: One Codebase, Android & iOS](https://medium.com/@mdazadhossain95) — Advanced networking
-- [Build and Release an Android App (Flutter)](https://medium.com/@mdazadhossain95) — Store submission guide (48 claps)
+- [Build and Release an Android App (Flutter)](https://medium.com/@mdazadhossain95) — Store submission guide
 
-**[Read more on Medium →](https://medium.com/@mdazadhossain95)**
+**[→ Read more on Medium](https://medium.com/@mdazadhossain95)**
 
 ---
 
 ## 🤝 Let's Work Together
 
-**💻 Available For:**
-- Freelance Flutter/React Native projects (Upwork verified)
-- Full-time remote opportunities
-- Open-source contributions
-- Technical mentoring & code reviews
-- Contract-based development
-
-**📧 Reach Out:**
-
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Portfolio-azadhossain.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://azadhossain.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-azadhossain--tutul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azadhossain-tutul/)
-[![GitHub](https://img.shields.io/badge/GitHub-mdazadhossain95-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdazadhossain95)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01082f851b8bed7bd1)
+  <a href="https://azadhossain.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-azadhossain.dev-0A66C2?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/azadhossain-tutul/">
+    <img src="https://img.shields.io/badge/LinkedIn-azadhossain--tutul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mdazadhossain95">
+    <img src="https://img.shields.io/badge/GitHub-mdazadhossain95-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01082f851b8bed7bd1">
+    <img src="https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@mdazadhossain95">
+    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 
-[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mdazadhossain95)
+  <br/>
+  <br/>
+
+  <b>💻 Available for:</b> Freelance Flutter/React Native · Full-time remote · Open source · Mentoring · Contract work
 
 </div>
 
+<br/>
 
+<div align="center">
+
+  <sub>Made with ❤️ by Azad · © 2025</sub>
+
+</div>
