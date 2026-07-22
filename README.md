@@ -1,11 +1,13 @@
 <div align="center">
   <img src="https://github.com/mdazadhossain95.png" width="150" alt="Md Azad Hossain Tutul" />
 
-  [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Flutter+Mobile+Engineer;5%2B+Years+Experience;200%2B+Apps+Delivered;Fintech+%26+AI+Specialist)](https://git.io/typing-svg)
+  [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Senior+Full-Stack+Flutter+Engineer;5%2B+Years+Experience;200%2B+Apps+Delivered;Fintech+%26+AI+Specialist)](https://git.io/typing-svg)
 
   # Md Azad Hossain Tutul
 
-  <i>Building production-grade Flutter applications that drive business impact — clean architecture, performance-first, reliable delivery.</i>
+  ### Senior Full-Stack Flutter Engineer
+
+  > I build production-ready Flutter products for Android, iOS, Web, Windows, and macOS, supported by scalable backend APIs, databases, payment systems, real-time features, and AI integrations.
 
   <br/>
 
@@ -61,42 +63,37 @@
 
 ## 🛠️ Tech Stack
 
-### Mobile & Frontend
+### Primary Expertise
+* Flutter
+* Dart
+* Android
+* iOS
+* Web
+* Windows
+* macOS
+* Clean Architecture
+* BLoC
+* Riverpod
+* Responsive and adaptive UI
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-2C2C2C?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-</p>
+### Full-Stack Delivery
+* Node.js
+* Python
+* Firebase
+* Supabase
+* REST APIs
+* Authentication
+* Databases
+* Payments
+* Notifications
+* Cloud integrations
 
-**State:** GetX · BLoC · Provider · Riverpod · Redux · Zustand · Context API  
-**UI:** Material 3 · Cupertino · Figma · Responsive · Dark Mode · Custom Animations
-
-### Backend & Data
-
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-**Storage:** SQFLite · Hive · SharedPreferences · GetStorage  
-**DevOps:** Fastlane · GitHub Actions · CI/CD
-
-### Communication & Payments
-
-**Voice/Video:** Agora · ZEGOCLOUD · VideoSDK · Twilio · Vonage · Dyte  
-**Messaging:** FCM · Firebase Realtime DB · WebSockets  
-**Payments:** Stripe · PayPal · Razorpay · sslcommerz  
-**APIs:** Google Maps · REST · GraphQL
+### Supporting Experience
+* React
+* React Native
+* Kotlin
+* Java
+* Swift
 
 ---
 
