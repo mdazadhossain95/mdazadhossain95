@@ -26,7 +26,7 @@
     <td align="center" width="160"><b>📱 Apps</b><br/>200+ Delivered</td>
     <td align="center" width="160"><b>🤝 Clients</b><br/>300+ Cases</td>
     <td align="center" width="160"><b>⭐ Upwork</b><br/>100% JSS</td>
-    <td align="center" width="160"><b>💼 Current</b><br/>Codego (Milan)</td>
+    <td align="center" width="160"><b>💼 Current</b><br/>Freelance (Upwork)</td>
   </tr>
 </table>
 
