@@ -162,6 +162,15 @@ While I cannot publicly share the source code for these proprietary fintech, tel
 - Walk through my approaches to state management, clean architecture, and performance optimization on a private call.
 - Provide verified client testimonials and Upwork success metrics.
 
+### 📱 Live Production Apps (Public)
+
+While the repositories are private, you can download and interact with some of the live production fintech products I have built:
+
+- **Codego Pay** - Global payment ecosystem. 
+  [Website](https://codegopay.com/) · [Google Play Store](https://play.google.com/store/apps/developer?id=Codego+Limited)
+- **Coxi Wallet** - Secure digital wallet and finance app. 
+  [Website](https://coxiwallet.com/) · [Google Play Store](https://play.google.com/store/apps/developer?id=Coxipay+LTD) · [Apple App Store](https://apps.apple.com/il/developer/coxipay/id1681736421)
+
 **I'm always open to:**
 
 - Building scalable Flutter packages & developer tooling
