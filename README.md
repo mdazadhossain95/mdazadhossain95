@@ -105,8 +105,8 @@
 <div align="center">
 
   <a href="https://github.com/mdazadhossain95">
-    <img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mdazadhossain95&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff&count_private=true&include_all_commits=true" />
-    <img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mdazadhossain95&layout=compact&theme=default&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff&langs_count=8&hide=html,css" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mdazadhossain95&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff&count_private=true&include_all_commits=true&v=1" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mdazadhossain95&layout=compact&theme=default&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff&langs_count=8&hide=html,css&v=1" />
   </a>
 
   <br/>
