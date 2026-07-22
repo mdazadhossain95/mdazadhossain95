@@ -34,9 +34,6 @@
 
 ---
 
-
----
-
 ## 🧠 Engineering Philosophy
 
 As a Senior Engineer, I believe my job isn't just writing code - it's delivering reliable, scalable products that drive business value. 
@@ -117,28 +114,10 @@ As a Senior Engineer, I believe my job isn't just writing code - it's delivering
 <div align="center">
 
   <a href="https://github.com/mdazadhossain95">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mdazadhossain95&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff&count_private=true&include_all_commits=true&v=1" />
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mdazadhossain95&layout=compact&theme=default&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff&langs_count=8&hide=html,css&v=1" />
-  </a>
-
-  <br/>
-  <br/>
-
-  <a href="https://github.com/mdazadhossain95">
     <img src="https://streak-stats.demolab.com?user=mdazadhossain95&theme=default&hide_border=true&stroke=0A66C2&ring=0A66C2&fire=E25822&currStreakLabel=0A66C2&sideLabels=0A66C2&dates=666666" alt="GitHub Streak" />
   </a>
 
-  <br/>
-  <br/>
-
-  <a href="https://github.com/mdazadhossain95">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdazadhossain95&theme=github-light&hide_border=true&color=0A66C2&line=0A66C2&point=0A66C2&area=true&area_color=0A66C21A" alt="Contribution Graph" />
-  </a>
-
 </div>
-
----
-
 
 ---
 
