@@ -153,19 +153,14 @@ Instead of just listing technologies, here is how I've applied them to solve rea
 ## 💼 Featured Projects
 
 
-> Check out my **[pinned repositories](https://github.com/mdazadhossain95?tab=repositories)** for current work and open-source contributions.
+### 🔒 Portfolio & Confidentiality
 
-### 🎯 Start Here: Featured Architecture
+As a Senior Consultant, **the vast majority of my 200+ delivered applications are enterprise products bound by strict Non-Disclosure Agreements (NDAs).** 
 
-If you're browsing my work, I recommend starting with **[Insert Project Name Here]**. 
-
-I built this project to demonstrate production-ready standards. It highlights:
-- **Clean Architecture** implementation separating domain logic from UI.
-- **Advanced State Management** using [Riverpod / BLoC] to handle complex asynchronous data flows.
-- **Performance Optimization** dealing with large local datasets without dropping frames.
-- **Backend Integration** with secure authentication and real-time syncing.
-
-> *Explore the repository here: [Link to Repo]*
+While I cannot publicly share the source code for these proprietary fintech, telehealth, and enterprise platforms, I am always happy to:
+- Discuss high-level system design and architecture.
+- Walk through my approaches to state management, clean architecture, and performance optimization on a private call.
+- Provide verified client testimonials and Upwork success metrics.
 
 **I'm always open to:**
 
